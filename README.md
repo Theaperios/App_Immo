@@ -1,2 +1,2 @@
-# Immo-
-Logiciel de gestion d'application immobilière
+# Immo+
+Logiciel de gestion d'application immobilière.
